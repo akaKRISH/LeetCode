@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akaKRISH/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akaKRISH/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
