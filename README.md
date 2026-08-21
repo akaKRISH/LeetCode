@@ -44,8 +44,17 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akaKRISH/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akaKRISH/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akaKRISH/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
