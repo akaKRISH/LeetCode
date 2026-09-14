@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akaKRISH/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/akaKRISH/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akaKRISH/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
