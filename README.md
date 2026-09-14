@@ -36,6 +36,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akaKRISH/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -69,9 +70,14 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
