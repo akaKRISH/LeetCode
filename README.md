@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/akaKRISH/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
