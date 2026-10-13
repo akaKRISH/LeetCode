@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akaKRISH/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/akaKRISH/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -60,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akaKRISH/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akaKRISH/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/akaKRISH/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/akaKRISH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
