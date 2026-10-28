@@ -28,6 +28,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/akaKRISH/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/akaKRISH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akaKRISH/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akaKRISH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akaKRISH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akaKRISH/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
