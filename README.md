@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/akaKRISH/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
