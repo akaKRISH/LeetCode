@@ -30,6 +30,7 @@
 | [0234-palindrome-linked-list](https://github.com/akaKRISH/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/akaKRISH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/akaKRISH/LeetCode/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akaKRISH/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akaKRISH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/akaKRISH/LeetCode/tree/master/0763-partition-labels) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0242-valid-anagram](https://github.com/akaKRISH/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/akaKRISH/LeetCode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/akaKRISH/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/akaKRISH/LeetCode/tree/master/0763-partition-labels) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/akaKRISH/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akaKRISH/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/akaKRISH/LeetCode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
